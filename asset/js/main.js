@@ -33,72 +33,72 @@ const app = {
       {
           name: 'Unstopable',
           singer: 'Sia',
-          path: './ass/music/1.mp3',
-          image: './ass/img/1.jpg',
+          path: './asset/music/1.mp3',
+          image: './asset/img/1.jpg',
           
         },
 
         {
           name: 'Attension',
           singer: 'charlie Puth',
-          path: './ass/music/2.mp3',
-          image: './ass/img/2.jpg',
+          path: './asset/music/2.mp3',
+          image: './asset/img/2.jpg',
         },
 
         {
           name: 'Nguoi Mien Nui Chat',
           singer: 'Double 2T',
-          path: './ass/music/3.mp3',
-          image: './ass/img/3.jpg',
+          path: './asset/music/3.mp3',
+          image: './asset/img/3.jpg',
         },
 
         {
           name: 'Rockabye',
           singer: 'Anne Marie',
-          path: './ass/music/4.mp3',
-          image: './ass/img/4.jpg',
+          path: './asset/music/4.mp3',
+          image: './asset/img/4.jpg',
         },
 
         {
           name: 'Legend Never Die',
           singer: 'The Current',
-          path: './ass/music/5.mp3',
-          image: './ass/img/5.jpg',
+          path: './asset/music/5.mp3',
+          image: './asset/img/5.jpg',
         },
 
         {
           name: 'Chan Ai',
           singer: 'Orange x Khoi x Chau Dang Khoa',
-          path: './ass/music/6.mp3',
-          image: './ass/img/6.jpg',
+          path: './asset/music/6.mp3',
+          image: './asset/img/6.jpg',
         },  
 
         {
           name: 'Ch oi Nhu Tui My',
           singer: 'Andree',
-          path: './ass/music/7.mp3',
-          image: './ass/img/7.jpg',
+          path: './asset/music/7.mp3',
+          image: './asset/img/7.jpg',
         },  
 
         {
           name: 'Mat troi cua em',
           singer: 'Phuong Ly',
-          path: './ass/music/8.mp3',
-          image: './ass/img/8.jpg',
+          path: './asset/music/8.mp3',
+          image: './asset/img/8.jpg',
         },  
 
         {
           name: 'Seven Years',
           singer: 'Lukas Graham',
-          path: './ass/music/9.mp3',
-          image: './ass/img/9.jpg',
+          path: './asset/music/9.mp3',
+          image: './asset/img/9.jpg',
         },  
 
         {
           name: 'Wating for Love',
           singer: 'Avicii',
-          path: './ass/music/10.mp3',
-          image: './ass/img/10.jpg',
+          path: './asset/music/10.mp3',
+          image: './asset/img/10.jpg',
         }
       ],
 
