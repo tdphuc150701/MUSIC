@@ -1,8 +1,8 @@
-# Web-Book
-+ sử dụng HTML CSS JS để tạo giao diện nghe nhạc
-- Ở đây có các chức năng chính như:
-+ Lặp lại bài hát
-+ Chuyển bài nhạc
-+ Pre và Next nhạc
-+ Lặp lại bài nhạc
-+ Dừng và tiếp tục 
+
+#Music
+-Use Html, Css and Js to create interfaces and perform functions such as:
++ Repeat song
++ Change music tracks
++ Pre and Next music
++ Repeat music
++ Stop and continue
